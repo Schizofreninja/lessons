@@ -6,6 +6,5 @@ print(example[::-1]) # 5
 print(example[1::2]) # 6
 
 # второй вариант решения задачи в п.4 (из интернета, но понравился)
-example = 'Топинамбур'
 second_half = example[len(example)//2:]
 print(second_half)
